@@ -1,0 +1,2 @@
+Mode: roomserver repeating
+Firmware:
